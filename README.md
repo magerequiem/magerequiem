@@ -1,59 +1,9 @@
-# Hi, I'm Devraj Singh Tanwar 👋
+# 💫 About Me:
+# Hi, I'm Devraj Singh Tanwar :wave:<br><br>**BCA Student specializing in AI & Machine Learning**  <br>:round_pushpin: SAGE University, Bhopal, India<br><br>---<br><br>### :man_technologist: About Me<br>I’m passionate about building software, exploring artificial intelligence, and turning ideas into working code. My approach is simple: **learn by building, experimenting, and improving.**<br><br>---<br><br>### :telescope: Currently Exploring<br>- :robot: Artificial Intelligence & Machine Learning<br>- :computer: Software Development & Problem Solving<br>- :tools: Building hands-on projects to sharpen my fundamentals<br><br>---<br>
 
-**BCA Student specializing in AI & Machine Learning**  
-📍 SAGE University, Bhopal, India
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/magicianoverdosed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mageoncrack) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@magicianoverdosed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mageoverdosed@gmail.com) 
 
-### 👨‍💻 About Me
-I’m passionate about building software, exploring artificial intelligence, and turning ideas into working code. My approach is simple: **learn by building, experimenting, and improving.**
-
----
-
-### 🔭 Currently Exploring
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Software Development & Problem Solving
-- 🛠️ Building hands-on projects to sharpen my fundamentals
-
----
-
-### 🪞 GRWM: Tech Stack Edition
-
-**1. The Base (Core Languages)**  
-*Can't leave the house without these:*  
-<p>
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="C" />
-</p>
-
-**2. Touch-Ups Needed (Familiar / Refreshing)**  
-*Sitting in the back of the drawer since CUET, dusting it off soon:*  
-<p>
-  <img src="https://shields.io" alt="SQL" />
-</p>
-
-**3. Setting Spray (Tools)**  
-*Holding the whole thing together:*  
-<p>
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" height="150" alt="stats graph" />
-  <img src="https://vercel.app" height="150" alt="languages graph" />
-</p>
-
----
-
-### 📫 Connect With Me
-- 📧 **Email:** [mageoverdosed@gmail.com](mailto:mageoverdosed@gmail.com)
-- 📸 **Instagram:** [@mageoncrack](https://instagram.com)
-- ▶️ **YouTube:** [@magicianoverdosed](https://youtube.com)
-
----
-*Just getting started. More to come.* 🚀
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
