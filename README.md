@@ -1,5 +1,19 @@
-# 💫 About Me:
-# Hi, I'm Devraj Singh Tanwar :wave:<br><br>**BCA Student specializing in AI & Machine Learning**  <br>:round_pushpin: SAGE University, Bhopal, India<br><br>---<br><br>### :man_technologist: About Me<br>I’m passionate about building software, exploring artificial intelligence, and turning ideas into working code. My approach is simple: **learn by building, experimenting, and improving.**<br><br>---<br><br>### :telescope: Currently Exploring<br>- :robot: Artificial Intelligence & Machine Learning<br>- :computer: Software Development & Problem Solving<br>- :tools: Building hands-on projects to sharpen my fundamentals<br><br>---<br>
+# Hi, I'm Devraj Singh Tanwar 👋
+
+**BCA Student specializing in AI & Machine Learning**  
+📍 SAGE University, Bhopal, India
+
+---
+
+### 👨‍💻 About Me
+I’m passionate about building software, exploring artificial intelligence, and turning ideas into working code. My approach is simple: **learn by building, experimenting, and improving.**
+
+---
+
+### 🔭 Currently Exploring
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Development & Problem Solving
+- 🛠️ Building hands-on projects to sharpen my fundamentals
 
 
 ## 🌐 Socials:
